@@ -2,6 +2,8 @@
 
 Este repositorio contiene las presentaciones y códigos usandos en el curso Crea tu primera dApp con ICP disponible.
 
+La presentación está disponible en: https://github.com/web3-explorers/icp_creandotuprimeradapp/blob/main/Crea%20tu%20primera%20dApp%20con%20ICP.pdf
+
 
 ## Ejecución de DFinity Canister SDK
 
